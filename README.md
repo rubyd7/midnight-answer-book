@@ -9,7 +9,7 @@
 
 ## ✦ 翻开这一页
 
-[进入答案之书](https://midnight-answer-book.fuzzyroot2.chatgpt.site/)
+[进入答案之书](https://rubyd7.github.io/midnight-answer-book/)
 
 1. 写下问题，或在心里默念。
 2. 轻点书本打开封面，再点一下，让书页流转。
@@ -39,7 +39,7 @@
 | `dist/answers.js` | 257 条答案 |
 | `.openai/hosting.json` | 原始 Sites 部署配置 |
 
-部署到静态托管服务时，发布目录为 `dist`。
+部署到静态托管服务时，发布目录为 `dist`。本仓库已配置 GitHub Pages：更新 `main` 分支中的网站文件后，GitHub Actions 会自动重新部署。
 
 ## ✦ 源码来源
 
